@@ -3,6 +3,7 @@ leetcode questions and answers (some with explanations)
 
 | Problem # | Problem name / link to leetcode      |  JS Sol'n  |  PY Sol'n  |
 | --------- | ------------------------------------ | ---------- | ---------- |
+| 169| [Majority Element](https://leetcode.com/problems/majority-element/) | [X](https://github.com/KMSkelton/leetcode/blob/master/JS/169-majority-element.js) | [X](https://github.com/KMSkelton/leetcode/blob/master/PY/169-Majority-element.py)
 | 442 | [Find All Duplicates in Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [X](https://github.com/KMSkelton/leetcode/blob/master/JS/442-find-all-duplicates-array.js) | [X](https://github.com/KMSkelton/leetcode/blob/master/PY/442-find-all-duplicates-array.py) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [X](https://github.com/KMSkelton/leetcode/blob/master/JS/709-to-lower-case.js) | [X](https://github.com/KMSkelton/leetcode/blob/master/PY/709-to-lower-case.py) |
 |   771  |   [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [X](https://github.com/KMSkelton/leetcode/blob/master/JS/771-jewels-and-stones.js) | [X](https://github.com/KMSkelton/leetcode/blob/master/PY/771-jewels-and-stones.py) |
