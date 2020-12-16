@@ -3,7 +3,7 @@ leetcode questions and answers (some with explanations)
 
 | Problem # | Problem name / link to leetcode      |  JS Sol'n  |  PY Sol'n  |
 | --------- | ------------------------------------ | ---------- | ---------- |
-| 7 |  | X | 
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [X](https://github.com/KMSkelton/leetcode/blob/main/JS/7-reverse-integer.js) | 
 | 22 | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) | [X](https://github.com/KMSkelton/leetcode/blob/main/JS/22-generate-parentheses.js) |
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/) | [X](https://github.com/KMSkelton/leetcode/blob/master/JS/169-majority-element.js) | [X](https://github.com/KMSkelton/leetcode/blob/master/PY/169-Majority-element.py)
 | 442 | [Find All Duplicates in Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [X](https://github.com/KMSkelton/leetcode/blob/master/JS/442-find-all-duplicates-array.js) | [X](https://github.com/KMSkelton/leetcode/blob/master/PY/442-find-all-duplicates-array.py) |
